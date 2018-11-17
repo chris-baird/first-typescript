@@ -8,4 +8,4 @@ let user = 'Bob Smith';
 
 document.body.innerHTML = greeter(user);
 
-// Compile TypeScript in terminal 'tsc filename.ts'
+// Compile TypeScript in terminal using the command:'tsc filename.ts'
