@@ -16,8 +16,8 @@ interface Person {
     lastName: string;
 }
 
-function greeter2(person: Person) {
-    return 'Hello, ' + person.firstName + ' ' + person.lastName;
+function greeter2(hotdog: Person) {
+    return 'Hello, ' + hotdog.firstName + ' ' + hotdog.lastName;
 }
 
 let user2 = { firstName: 'Chris', lastName: 'Baird'};

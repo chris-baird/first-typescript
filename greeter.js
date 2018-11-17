@@ -5,8 +5,8 @@ function greeter(person) {
 }
 var user = 'Bob Smith';
 document.body.innerHTML = greeter(user);
-function greeter2(person) {
-    return 'Hello, ' + person.firstName + ' ' + person.lastName;
+function greeter2(hotdog) {
+    return 'Hello, ' + hotdog.firstName + ' ' + hotdog.lastName;
 }
 var user2 = { firstName: 'Chris', lastName: 'Baird' };
 console.log(user2);
